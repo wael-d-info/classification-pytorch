@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Wael/Mast%C3%A8re/Cours_M2/DevOps/MLOps/classification-pytorch/mlruns/0/f151ba521255440290c20768eb2d7962/artifacts
+end_time: 1732178391414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f151ba521255440290c20768eb2d7962
+run_name: silent-koi-381
+run_uuid: f151ba521255440290c20768eb2d7962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732177187575
+status: 3
+tags: []
+user_id: waeld

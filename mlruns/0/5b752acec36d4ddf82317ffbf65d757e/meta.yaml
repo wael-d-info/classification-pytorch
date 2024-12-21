@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Wael/Mast%C3%A8re/Cours_M2/DevOps/MLOps/classification-pytorch/mlruns/0/5b752acec36d4ddf82317ffbf65d757e/artifacts
+end_time: 1732151999355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b752acec36d4ddf82317ffbf65d757e
+run_name: fun-steed-63
+run_uuid: 5b752acec36d4ddf82317ffbf65d757e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732147512076
+status: 3
+tags: []
+user_id: waeld

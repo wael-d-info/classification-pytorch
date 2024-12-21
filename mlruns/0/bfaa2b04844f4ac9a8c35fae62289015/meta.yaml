@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Wael/Mast%C3%A8re/Cours_M2/DevOps/MLOps/classification-pytorch/mlruns/0/bfaa2b04844f4ac9a8c35fae62289015/artifacts
+end_time: 1732140954403
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfaa2b04844f4ac9a8c35fae62289015
+run_name: serious-ape-142
+run_uuid: bfaa2b04844f4ac9a8c35fae62289015
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732139722854
+status: 3
+tags: []
+user_id: waeld

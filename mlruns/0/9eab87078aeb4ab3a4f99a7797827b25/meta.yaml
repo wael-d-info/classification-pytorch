@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Wael/Mast%C3%A8re/Cours_M2/DevOps/MLOps/classification-pytorch/mlruns/0/9eab87078aeb4ab3a4f99a7797827b25/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9eab87078aeb4ab3a4f99a7797827b25
+run_name: peaceful-fowl-803
+run_uuid: 9eab87078aeb4ab3a4f99a7797827b25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732143141754
+status: 1
+tags: []
+user_id: waeld
